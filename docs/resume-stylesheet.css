@@ -43,6 +43,8 @@ body {
         border-width: 2px;
         border-color: black;
         border-style: solid;
+        margin: auto;
+        max-width: 1020px;
       }
 
       header {
