@@ -73,6 +73,15 @@ body {
         color: darkgrey;
       }
 
+      img {
+        vertical-align: text-bottom;
+      }
+
+      img:hover {
+        opacity: 0.6;
+      }
+
+
       .firmname {
       	font-family: 'Cinzel';
         font-weight: bold;
