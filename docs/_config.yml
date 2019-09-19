@@ -1,0 +1,8 @@
+# --- Configuration options #
+
+# Name of Github Pages website
+title: Resume of Mark Badros
+
+
+baseurl: "/Timberlake"
+# baseurl: ""
